@@ -1,0 +1,21 @@
+{
+  "name": "syllable_playback",
+  "version": "0.0.1",
+  "description": "Syllable-based custom WPM cursor through text to help with dictation recording",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^2.0.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "syllable": "^2.0.0"
+  },
+  "scripts": {
+    "dev": "./node_modules/next/dist/bin/next",
+    "build": "./node_modules/next/dist/bin/next build",
+    "start": "./node_modules/next/dist/bin/next start"
+  },
+  "author": "",
+  "license": "MIT"
+}
